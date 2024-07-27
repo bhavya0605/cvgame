@@ -41,9 +41,8 @@ To install the game, follow these steps:
 1. Start the game:
     ```sh
     npm install
-    npm rundev
+    npm run dev
     ```
-    or 
     ```sh
     python game.py
     ```
